@@ -1,5 +1,5 @@
-Desing Patterns : Creational DP, Structural DP, Behavioral DP 
+Compiling Work : Syntax Analyzer, Letter, Lexical Analyzer
 
-Lecture : Summer Intern 2
-Programming Lang. : JAVA
+Lecture : Compiling Programming Lang.
+Programming Lang. : C++
 
